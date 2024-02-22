@@ -1,0 +1,8 @@
+1. Prompt the user to enter an amount in taka.
+2. Read the entered amount.
+3. Initialize variables for the number of coins used and an array to store the quantities of each type
+of coin.
+4. Calculate the number of 5-taka coins needed and update the amount.
+5. Calculate the number of 2-taka coins needed and update the amount.
+6. The remaining amount represents the number of 1-taka coins needed.
+7. Display the total number of coins needed and the quantities of each type of coin used.

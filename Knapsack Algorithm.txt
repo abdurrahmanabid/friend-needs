@@ -1,0 +1,9 @@
+1. Define a structure "Item to represent each item with weight and value fields.
+2. Implement a function 'knapsackGreedy' to solve the knapsack problem using a greedy approach:
+    • Sort items by their value-to-weight ratio in non-increasing order.
+    • Greedily select items based on their ratio until the knapsack capacity is exhausted.
+    • Return the total value obtained.
+3. In the 'main' function:
+    • Input the number of items, their weights, values, and the knapsack capacity.
+    • Solve the knapsack problem using the 'knapsackGreedy' function.
+    • Output the maximum value achievable.
