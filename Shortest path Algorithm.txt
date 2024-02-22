@@ -1,0 +1,12 @@
+1. Define structures for "Edge" and "Node" to represent graph edges and nodes respectively.
+2. Implement Dijkstra's algorithm in the function dijkstra to find the shortest path from a source
+node to all other nodes:
+    • Initialize distances to all nodes as infinity except the source node, which is set to 0.
+    • Use a priority queue to explore nodes with the shortest distances first.
+    • Update distances if a shorter path is found.
+3. In the 'main' function:
+    • Prompt the user to input the number of nodes and edges.
+    • Create a graph data structure and input edges from the user.
+    • Prompt the user to input the source node for shortest path calculation.
+    • Use Dijkstra's algorithm to find the shortest distances from the source node to all other nodes.
+    • Output the shortest distances from the source node to all other nodes.
